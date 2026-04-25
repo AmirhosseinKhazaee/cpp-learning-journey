@@ -69,4 +69,5 @@ Testing/
 .cache/
 
 #vscode 
+.vscode
 *.code-workspace
